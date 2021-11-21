@@ -18,17 +18,6 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-/*
-    fun ResetLyt(v: View)
-    {
-        val diceValue = findViewById(R.id.dice_value_holder) as TextView
-        val diceImage = findViewById(R.id.dice_image_holder) as ImageView
-
-        diceValue.text = "Sıfırlandı"
-        diceImage.setImageResource(R.drawable.gdsc)
-    }
- */
-
 
     fun RollDiceButton(v : View)
     {
